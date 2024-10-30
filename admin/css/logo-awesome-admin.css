@@ -1,0 +1,16 @@
+/**
+* All of the CSS for your admin-specific functionality should be
+* included in this file.
+*/
+
+
+.button.cf-media-gallery__browse {
+	background-color: #000;
+}
+
+.doc-link {
+	color: #63c6a7 !important;
+}
+.pro-link {
+	color: #ff0036 !important;
+}
